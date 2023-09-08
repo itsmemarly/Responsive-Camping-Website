@@ -32,7 +32,7 @@ This project is inspired by the work of Bedimcode.
 
 This project is licensed under the MIT License.
 
-##Contact Me
+## Contact Me
 Whether you have suggestions, questions, or need support while using this Responsive Camping Website project, feel free to reach out:
 
 Email: reiding01@live.nl
